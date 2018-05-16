@@ -442,7 +442,7 @@ left: 1.5vw;
     position:  absolute;
     top: 12vw;
     left: 73vw;
-    z-index-1;
+    z-index:-1;
 "><p style="
     padding: 1vw;
     font-size: 1.5vw;
