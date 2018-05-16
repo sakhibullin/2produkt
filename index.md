@@ -130,7 +130,7 @@ width:20vh;
 height:7.5vw;
 background-color: #c4c4c4;
 ">
-<img src="0340425_5.JPG"
+<img src="001.jpg"
 style="
 width: 8vw;
 height: 13vh;
@@ -149,7 +149,7 @@ width:20vh;
 height:7.5vw;
 background-color: #c4c4c4;
 ">
-<img src="0340425_7.JPG"
+<img src="002.jpg"
 style="
 width: 8vw;
 height: 13vh;
@@ -169,7 +169,7 @@ width:20vh;
 height:7.5vw;
 background-color: #c4c4c4;
 ">
-<img src="0340425_6.JPG"
+<img src="003.jpg"
 style="
 width: 8vw;
 height: 13vh;
@@ -185,7 +185,7 @@ width:35vw ;
 height:62vh ;
 background-color: #c4c4c4;
 ">
-<img src="Komp 1.JPG" 
+<img src="Komp 2.jpg" 
 style="
 position: relative;
 top:3vh ;
@@ -248,7 +248,7 @@ position: absolute;
     background-color: rgb(196,196,196);
     width: 26vw;
     height: 12vw;
-"><p style="color: #000000;position: absolute;top: 1vh;left: 1vw;">Похожие товары</p><img src="Komp 2.jpg" style="position:  absolute;top: 3vw;left: 6vh;width: 8vw;"><img src="Komp 3.jpg" style="position: absolute;top: 3vw;left: 27vh;width: 10vw;height: 16.5vh;"></div><div id="black"><a href="#" onclick="
+"><p style="color: #000000;position: absolute;top: 1vh;left: 1vw;">Похожие товары</p><img src="Komp 1.jpg" style="position:  absolute;top: 3vw;left: 6vh;width: 8vw;"><img src="Komp 3.jpg" style="position: absolute;top: 3vw;left: 27vh;width: 10vw;height: 16.5vh;"></div><div id="black"><a href="#" onclick="
 document.getElementById('black').style.display='none';
 document.getElementById('wtf3').style.display='none';
 document.getElementById('wtf2').style.display='none';
@@ -262,7 +262,7 @@ document.getElementById('d').style.display='none';
     z-index: 22;
     border-radius: 10%;"
 	 ></a>
-<div id="wtf"><img src="0340425_5.JPG" style="
+<div id="wtf"><img src="001.jpg" style="
 position: absolute;
 top: 1vh;
 left: 1vw;
@@ -272,7 +272,7 @@ width: 38vw;
 border-radius: 10%;
 	z-index:1;
 " ></div>
-<div id="wtf2"><img src="0340425_7.JPG" style="
+<div id="wtf2"><img src="002.jpg" style="
 position: absolute;
 top: 1vh;
 left: 1vw;
@@ -282,7 +282,7 @@ width: 38vw;
 border-radius: 10%;
 	z-index:1;
 " ></div>
-<div id="wtf3"><img src="0340425_6.JPG"
+<div id="wtf3"><img src="003.jpg"
 style="
 position: absolute;
 top: 1vh;
@@ -442,7 +442,7 @@ left: 1.5vw;
     position:  absolute;
     top: 12vw;
     left: 73vw;
-    z-index-1;
+    z-index:-1;
 "><p style="
     padding: 1vw;
     font-size: 1.5vw;
