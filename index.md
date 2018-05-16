@@ -130,7 +130,7 @@ width:20vh;
 height:7.5vw;
 background-color: #c4c4c4;
 ">
-<img src="001.JPG"
+<img src="001.jpg"
 style="
 width: 8vw;
 height: 13vh;
@@ -149,7 +149,7 @@ width:20vh;
 height:7.5vw;
 background-color: #c4c4c4;
 ">
-<img src="002.JPG"
+<img src="002.jpg"
 style="
 width: 8vw;
 height: 13vh;
@@ -169,7 +169,7 @@ width:20vh;
 height:7.5vw;
 background-color: #c4c4c4;
 ">
-<img src="003.JPG"
+<img src="003.jpg"
 style="
 width: 8vw;
 height: 13vh;
@@ -185,7 +185,7 @@ width:35vw ;
 height:62vh ;
 background-color: #c4c4c4;
 ">
-<img src="Komp 1.JPG" 
+<img src="Komp 1.jpg" 
 style="
 position: relative;
 top:3vh ;
@@ -262,7 +262,7 @@ document.getElementById('d').style.display='none';
     z-index: 22;
     border-radius: 10%;"
 	 ></a>
-<div id="wtf"><img src="001.JPG" style="
+<div id="wtf"><img src="001.jpg" style="
 position: absolute;
 top: 1vh;
 left: 1vw;
@@ -272,7 +272,7 @@ width: 38vw;
 border-radius: 10%;
 	z-index:1;
 " ></div>
-<div id="wtf2"><img src="002.JPG" style="
+<div id="wtf2"><img src="002.lpg" style="
 position: absolute;
 top: 1vh;
 left: 1vw;
@@ -282,7 +282,7 @@ width: 38vw;
 border-radius: 10%;
 	z-index:1;
 " ></div>
-<div id="wtf3"><img src="003.JPG"
+<div id="wtf3"><img src="003.jpg"
 style="
 position: absolute;
 top: 1vh;
