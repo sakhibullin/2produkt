@@ -272,7 +272,7 @@ width: 38vw;
 border-radius: 10%;
 	z-index:1;
 " ></div>
-<div id="wtf2"><img src="002.lpg" style="
+<div id="wtf2"><img src="002.jpg" style="
 position: absolute;
 top: 1vh;
 left: 1vw;
