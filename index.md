@@ -446,7 +446,7 @@ left: 1.5vw;
 "><p style="
     padding: 1vw;
     font-size: 1.5vw;
-">Системный блок Black <br>i5-6600K 3.5GHz <br> 16GB <br> 1TB + 120 GB SSD <br> Дискретная GTX970 4GB br Win 10 Home</p></div>
+">Системный блок Gray <br>i5-6600K 3.1GHz <br> 16GB <br> 1TB + 25 GB SSD <br> Дискретная Radeon RX 550 br Win 10 Home</p></div>
 </body>
 </html>
 
